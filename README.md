@@ -9,7 +9,7 @@ This is the **backend API** for the Student Walker application — a short-dista
 
 ## 🔗 Related Projects
 
-- 📱 Frontend (React Native): [https://github.com/fahrizapcode/frontendstw](https://github.com/fahrizapcode/frontendstw)
+- 📱 Frontend (React Native)
 - 🎨 UI/UX Design (Figma): [View Design](https://www.figma.com/design/Jx5OfjJwnmkUkoH9jKbVQs/StucKer?node-id=0-1&t=85iQGpbMblSBBv6A-1)
 
 ---
